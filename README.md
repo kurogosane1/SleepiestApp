@@ -5,25 +5,26 @@ Built with React Native and inspired by Sleepiest App
 
 ![](SleepiestApp.mp4)
 
-<p align="center">
+<div align='center'>
 <video width="320" height="240" controls>
   <source src="SleepiestApp.mp4" type="video/mp4">
-</video></p>
+</video>
+</div>
 <img src="SleepiestApp.mp4" type="video/mp4"/>
 <!-- <iframe width="320" height="240" align="middle" src="SleepiestApp.mp4"> -->
 The Sleep App has sounds like gentle rain drops that are hypnotic in guiding one to sleep.
 
-<p align='center'><img src="Sleepiest1.png" height="200"></p>
+<p align='center'><img src="Sleepiest1.png" height="500"></p>
 If sounds are not then some guided meditations are there to help you sleep, where you are gently guided to sleep
 ##Meditations
 Listen from yoga experts who slowly guide your breathing, with slow background music guide you to sleep. So 
 <p align='center'>
-  <img src="Sleepiest2.png" height="200">
+  <img src="Sleepiest2.png" height="500">
 </p>
 ## Stories
 If stories are your thing, then listen to famous stories. Feel relax after listening to a story as if you were in a cafe or being read while you are trying to fall Asleep
 <p align='center'>
-  <img src="Sleepiest3.png" height="200">
+  <img src="Sleepiest3.png" height="500">
 </p>
 
 Whatever you choose, thank you for selecting Sleep App and enjoy the rest of your sleep
