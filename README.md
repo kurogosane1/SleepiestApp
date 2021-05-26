@@ -1,10 +1,13 @@
+
+
+
 <h1 style="text-align: center;">Sleep App </h1>
 
 Originally inspired by "Sleepiest" App on the IOS store and was pretty much made on the spot to work on the Spot
 Built with React Native and inspired by Sleepiest App
 
-![](SleepiestApp.mp4)
 
+https://user-images.githubusercontent.com/20883272/119742679-ecd3e100-be4d-11eb-9603-5b5a69d08c79.mp4
 <div align='center'>
 <video width="320" height="240" controls>
   <source src="SleepiestApp.mp4" type="video/mp4">
