@@ -7,10 +7,8 @@ Originally inspired by "Sleepiest" App on the IOS store and was pretty much made
 Built with React Native and inspired by Sleepiest App
 
 
-
-<div align='center'>
 https://user-images.githubusercontent.com/20883272/119742679-ecd3e100-be4d-11eb-9603-5b5a69d08c79.mp4
-</div>
+
 
 <!-- <iframe width="320" height="240" align="middle" src="SleepiestApp.mp4"> -->
 The Sleep App has sounds like gentle rain drops that are hypnotic in guiding one to sleep.
