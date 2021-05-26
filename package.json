@@ -1,6 +1,6 @@
 {
   "main": "node_modules/expo/AppEntry.js",
-  "homepage": "https://github.com/kurogosane1/SleepApp.git",
+  "homepage": "https://github.com/kurogosane1/SleepiestApp.git",
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
