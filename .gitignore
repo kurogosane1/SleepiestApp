@@ -8,6 +8,11 @@ npm-debug.*
 *.mobileprovision
 *.orig.*
 web-build/
-
+assets/meditation_sounds
+assets/sleep_stories
+assets/sounds
+src/assets/meditation_sounds
+src/assets/sleep_stories
+src/assets/sounds
 # macOS
 .DS_Store
