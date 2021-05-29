@@ -31,35 +31,37 @@ function SettingsScreen() {
           )}
         </TouchableOpacity>
         <View style={{ padding: 20 }}>
-          <Text variant="label" style={{ color: "white" }}>
+          <Text variant="label" style={{ color: "#ffffff" }}>
             User Name
           </Text>
         </View>
       </AvatarContainer>
       <List.AccordionGroup>
         <List.Accordion
-          title={<Text style={{ color: "white" }}>User Information</Text>}
+          title={<Text style={{ color: "#ffffff" }}>User Information</Text>}
           id="1">
           <List.Item
-            title={<Text style={{ color: "white" }}>User Name</Text>}
+            title={<Text style={{ color: "#ffffff" }}>User Name</Text>}
           />
         </List.Accordion>
         <List.Item
-          title={<Text style={{ color: "white" }}>Support/Help</Text>}
+          title={<Text style={{ color: "#ffffff" }}>Support/Help</Text>}
           id="2"
         />
         <View>
           <List.Item
-            title={<Text style={{ color: "white" }}>Account Settings</Text>}
+            title={<Text style={{ color: "#ffffff" }}>Account Settings</Text>}
             id="3"
-            titleStyle={{ color: "White" }}
+            titleStyle={{ color: "#ffffff" }}
           />
         </View>
         <View>
           <List.Item
-            title={<Text style={{ color: "white" }}>Login/Create Account</Text>}
+            title={
+              <Text style={{ color: "#ffffff" }}>Login/Create Account</Text>
+            }
             id="3"
-            style={{ color: "White" }}
+            style={{ color: "#ffffff" }}
           />
         </View>
       </List.AccordionGroup>

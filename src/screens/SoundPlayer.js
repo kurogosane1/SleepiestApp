@@ -96,7 +96,10 @@ function soundsPlayer({ route }) {
   };
 
   useEffect(() => {
-    playCurrentSong();
+    const timeout = setTimeout(() => {
+      playCurrentSong();
+    }, 1000);
+    return () => clearTimeout(timeout);
   }, []);
 
   useEffect(() => {
